@@ -1,0 +1,14 @@
+/* App.css (Optional) */
+/* This can be used for global styles that apply to the whole app */
+
+#root, html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
